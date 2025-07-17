@@ -1,1 +1,7 @@
-incrideients:milk,water,tea powder,sugar
+--git commands---
+-----------------------------
+*git init =>for initilazing
+
+*git add -A =>for adding to track
+
+*git commit -m "message" =>to commit
