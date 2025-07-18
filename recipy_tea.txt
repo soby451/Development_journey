@@ -13,3 +13,5 @@
 *git push name branch_name =>for pushing data to remote repostory
 
 *git remot -v =>to check remote repostory added or not
+
+*git log =>for updated date and comments
