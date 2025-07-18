@@ -5,3 +5,5 @@
 *git add -A =>for adding to track
 
 *git commit -m "message" =>to commit
+
+*git status => to check modified files
