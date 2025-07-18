@@ -7,3 +7,9 @@
 *git commit -m "message" =>to commit
 
 *git status => to check modified files
+
+*git remote add name name_path =>for adding remote repostory to local remote
+
+*git push name branch_name =>for pushing data to remote repostory
+
+*git remot -v =>to check remote repostory added or not
